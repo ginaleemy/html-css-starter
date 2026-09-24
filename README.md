@@ -1,6 +1,6 @@
 ﻿# HTML & CSS Design Standards
 
-##URL : https://ginaleemy.github.io/html-css-starter/
+## URL : https://ginaleemy.github.io/html-css-starter/
 ## 1. Purpose
 
 This document is the design reference for all future HTML and CSS pages. It keeps typography, colours, spacing, shadows, border radii, page structure, reusable components, and responsive behaviour consistent.
